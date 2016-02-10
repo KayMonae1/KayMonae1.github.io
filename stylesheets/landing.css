@@ -71,12 +71,13 @@ PAGE: _______
 /**********************************
 FONTS
 ***********************************/
-
-
+.portrait_name{
+    font-family: 'Audiowide', cursive;
+}
 
 /**********************************
 COLORS and BACKGROUNDS
-Color 1:
+Color 1: #eee
 Color 1:
 Color 1:
 Color 1:
@@ -84,18 +85,24 @@ Color 1:
 ***********************************/
 
 article{
-    background:#eee;
+    background:#E80C81;
+    color:blue;
 }
 
 footer{
-    background:#eee;
+    background:#E80C81;
 }
 
 .jumbotron{
-  background: url('https://picjumbo.imgix.net/HNCK8910.jpg?q=40&w=1650&sharp=30') no-repeat center;
+  background: url('http://www.kucuu.com/desktop-wallpaper-home/Sunset-Sea-Raspberry-1920x1440.jpg') no-repeat center;
   background-size: cover;
+  color:blue;
 }
 
 .portrait_name{
-    background: rgba(230, 230, 230, 0.7);
+    background: rgba(232, 212, 129, 0.7);
 }
+ 
+body {
+     background:#00CDFF;
+ }
